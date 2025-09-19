@@ -1,0 +1,5 @@
+Flask>=2.2.0
+Pillow>=9.5.0
+PyMuPDF>=1.22.0
+python-docx>=0.8.11
+Werkzeug>=2.2.0
